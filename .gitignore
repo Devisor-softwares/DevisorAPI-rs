@@ -1,7 +1,6 @@
 /target
 .env
 *.log
-*.sql
 *.sqlite
 *.sqlite3
 *.db
