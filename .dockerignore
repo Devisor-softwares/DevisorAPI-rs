@@ -1,0 +1,43 @@
+# Rust
+target/
+Cargo.lock
+**/*.rs.bk
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.sql
+*.db
+*.sqlite
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+
+# Documentation
+README.md
+*.md
+
+# Tests
+tests/
+**/*_test.rs
+
+# Backup files
+backup_*.sql
